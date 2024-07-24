@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Amita:wght@400;700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Tangerine:wght@400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
