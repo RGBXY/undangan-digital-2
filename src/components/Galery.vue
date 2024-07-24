@@ -6,25 +6,25 @@
         <button @click="imgClick" class="h-[220px] row-span-4 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery.png" alt="" />
         </button>
-        <button class="h-[140px] row-span-3 col-span-5">
+        <button @click="imgClick" class="h-[140px] row-span-3 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-2.png" alt="" />
         </button>
-        <button class="h-[220px] row-span-3 col-span-5">
+        <button @click="imgClick" class="h-[220px] row-span-3 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-3.png" alt="" />
         </button>
-        <button class="h-[220px] row-span-3 col-span-5">
+        <button @click="imgClick" class="h-[220px] row-span-3 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-4.png" alt="" />
         </button>
-        <button class="h-[220px] row-span-3 col-span-5">
+        <button @click="imgClick" class="h-[220px] row-span-3 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-5.png" alt="" />
         </button>
-        <button class="h-[220px] row-span-3 col-span-5">
+        <button @click="imgClick" class="h-[220px] row-span-3 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-6.png" alt="" />
         </button>
-        <button class="h-[220px] row-span-4 col-span-5">
+        <button @click="imgClick" class="h-[220px] row-span-4 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-7.png" alt="" />
         </button>
-        <button class="h-[140px] row-span-3 col-span-5">
+        <button @click="imgClick" class="h-[140px] row-span-3 col-span-5">
           <img class="h-full w-full object-cover rounded-2xl" src="../../public/assets/assets-image-galery-2.png" alt="" />
         </button>
       </div>
