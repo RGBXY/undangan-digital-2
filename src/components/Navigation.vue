@@ -1,6 +1,6 @@
 <template>
   <div class="fixed z-50 w-full left-0 right-0 bottom-[2%] flex justify-center">
-    <div class="w-[80%] md:w-[40%] lg:w-[20%] bg-secondary flex justify-between p-2 rounded-xl">
+    <div class="w-[80%] md:w-[30%] lg:w-[20%] bg-secondary flex justify-between p-2 rounded-xl">
       <a href="#home" class="group">
         <div class="p-2 bg-primary rounded-lg group-hover:bg-white transition-all">
           <HomeIcon class="transition-all text-white group-hover:text-primary" />
